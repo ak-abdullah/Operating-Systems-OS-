@@ -14,7 +14,6 @@ A functional **Windows OS clone** designed as part of an Operating Systems cours
 
 ### 🧰 Built-in Utilities
 - **Text Editor**
-- **Packman**
 - **Alarm**
 - **Unit Converter**
 - **BIMI Calculator**
@@ -23,6 +22,7 @@ A functional **Windows OS clone** designed as part of an Operating Systems cours
 - **System Logger**
 
 ### 🎮 Games Included
+- **Packman**
 - **Minesweeper**
 - **Tic Tac Toe**
 - **Number Guessing Game**
