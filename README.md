@@ -16,7 +16,7 @@ A functional **Windows OS clone** designed as part of an Operating Systems cours
 - **Text Editor**
 - **Packman**
 - **Alarm**
-- - **Unit Converter**
+- **Unit Converter**
 - **BIMI Calculator**
 - **Calendar**
 - **Stopwatch**
